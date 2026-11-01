@@ -77,3 +77,4 @@ public class TerritoryManager : MonoBehaviour
         public static void Release(List<T> list) { list.Clear(); pool.Push(list); }
     }
 }
+// TerritoryManager updated
